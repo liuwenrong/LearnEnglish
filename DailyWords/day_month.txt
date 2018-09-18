@@ -1,0 +1,33 @@
+January : the 1st/first month of the year in the Western calendar,between December and February.
+February: the 2nd/second month of the year,between January and March.
+March:
+April : the 4th/fourth month of the year, between March and May.
+May : the 5th/fifth month of the year, between April and June
+June : the 6th/sixth month of the year, between May and July.
+July : the 7th/seventh 
+August : the 8th/eighth
+September : the 9th/ninth
+October: 
+November :
+December:
+
+0 Zero
+1 one first 1st
+2 two 2nd second
+3 three third 3rd
+4 four fourth
+
+Tens of millions
+
+13686461726
+362429199202213012
+17620486692
+351255438
+
+362429199202213012
+362429199202213012
+362429199202213012
+362429199202213012
+13686461726 13686461726 13686461726
+13686461726 13686461726 13686461726
+362429199202213012
