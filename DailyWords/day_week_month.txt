@@ -11,6 +11,14 @@ October:
 November :
 December:
 
+Monday : Monday is the day after Sunday and before Tuesday
+Tuesday : the day of the week after Monday and before Wednesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
 0 Zero
 1 one first 1st
 2 two 2nd second
